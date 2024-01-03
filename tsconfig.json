@@ -1,0 +1,10 @@
+{
+	"compilerOptions": {
+		"rootDir": "./src",
+		"outDir": "./build/",
+		"esModuleInterop": true,
+		"baseUrl": "./",
+	},
+	"include": ["src/**/*"],
+  	"exclude": ["output/**/*", "build/**/*"],
+}
